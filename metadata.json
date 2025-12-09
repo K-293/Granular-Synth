@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Granulator",
+  "description": "A browser-based granular synthesizer. Upload audio, manipulate grains in real-time, and generate AI-powered texture presets.",
+  "requestFramePermissions": []
+}
